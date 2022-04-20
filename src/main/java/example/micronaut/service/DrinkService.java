@@ -14,9 +14,9 @@ public class DrinkService {
             new Drink("Coca Cola"),
             new Drink("Fanta"),
             new Drink("Sparletta"),
-            new Drink("Oracle Code One"),
-            new Drink("CommitConf"),
-            new Drink("Codemotion Madrid")
+            new Drink("Briska"),
+            new Drink("Smirnoff"),
+            new Drink("Mojito")
     );
 
     public Drink randomDrink() {
